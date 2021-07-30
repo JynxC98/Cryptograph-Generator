@@ -4,6 +4,7 @@ A simple function that generates a set of integers from a given string. It uses 
 **File name: Cryptography_Gen**
 
 It uses the most basic form of ciphering data; converting the alphabets to the corresponding numbers of their order. Eg. A--> 1
+
 Drawback of this code is that only strings can be encoded. Integers and special characters cannot be encoded.
 
 **File name: Advanced_Cryptography**
